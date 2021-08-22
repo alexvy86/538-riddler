@@ -1,0 +1,1 @@
+I felt very doubtful of the solution discussed in the Doof Discord so made this to try to get some intuition about what's happening. It doesn't give an answer per se.
